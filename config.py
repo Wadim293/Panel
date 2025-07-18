@@ -1,5 +1,5 @@
 BOT_TOKEN = "8155548187:AAFlVSCvbDrbftGhCuLx2P0UAohByaDYrIA"
-WEBHOOK_HOST = "https://c86854571351.ngrok-free.app"
+WEBHOOK_HOST = "https://panel-production-11ae.up.railway.app/"
 WEBHOOK_PATH = "/webhook"
 
 POSTGRES_URI = "postgresql+asyncpg://postgres:QswGiKrkdczguxfRBIGPmYyFFFqDHGvR@postgres.railway.internal:5432/railway"

@@ -103,4 +103,4 @@ async def build_app() -> web.Application:
     return app
 
 if __name__ == "__main__":
-    web.run_app(build_app(), host="0.0.0.0", port=3000)
+    web.run_app(build_app(), host="0.0.0.0", port=8080)
