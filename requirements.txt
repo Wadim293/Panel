@@ -1,2 +1,6 @@
 aiogram==3.20.0.post0
 aiohttp
+asyncpg
+sqlalchemy
+redis
+telethon
